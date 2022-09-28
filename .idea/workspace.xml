@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c9612d9-b947-4864-bba8-7add42c62108" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/BasketSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/data_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/first_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/inherit_builtin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/inherit_builtin2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/magic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/multiple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/second_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/OOP_classes/vector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/concepts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/concepts/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/file/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/file/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/json_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/json_test/handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/json_test/json/twitter_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/json_test/twitter_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/my_yaml_file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/my_yaml_file/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/my_yaml_file/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/my_yaml_file/yaml_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/testing_testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/testing_testing/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/testing_testing/utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/thisNewProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/thisNewProject/airBnB/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/thisNewProject/airBnB/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/thisNewProject/airBnB/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/thisNewProject/data/users/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/try_catch/TryCatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/try_catch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/twitterAssignment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/twitterAssignment/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/twitterAssignment/db_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/twitterAssignment/twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_works/twitterAssignment/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_works/module_/Mod2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_works/module_/Mod2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_works" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CIgHvcqEmRLdW2sXrb3wqaz8Vl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_works/concepts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.generators">
+    <configuration name="data_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_works/OOP_classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_works/OOP_classes/data_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_works/concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_works/concepts/decorators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_works" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_works/generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inherit_builtin2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_works/OOP_classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_works/OOP_classes/inherit_builtin2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_works" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_works/iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generators" />
+        <item itemvalue="Python.iterators" />
+        <item itemvalue="Python.decorators" />
+        <item itemvalue="Python.inherit_builtin2" />
+        <item itemvalue="Python.data_class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c9612d9-b947-4864-bba8-7add42c62108" name="Changes" comment="" />
+      <created>1658495428685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658495428685</updated>
+      <workItem from="1658495430149" duration="52000" />
+      <workItem from="1658495889173" duration="966000" />
+      <workItem from="1658743546059" duration="10801000" />
+      <workItem from="1658824657103" duration="8341000" />
+      <workItem from="1658849676411" duration="1763000" />
+      <workItem from="1659288177648" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1658757708612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$data_class.coverage" NAME="data_class Coverage Results" MODIFIED="1658826851359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$inherit_builtin2.coverage" NAME="inherit_builtin2 Coverage Results" MODIFIED="1658827900412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$generators.coverage" NAME="generators Coverage Results" MODIFIED="1658851064955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$vector.coverage" NAME="vector Coverage Results" MODIFIED="1658758294186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1658850156159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$inherit_builtin.coverage" NAME="inherit_builtin Coverage Results" MODIFIED="1658762764822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1658832759835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/concepts" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME=" Coverage Results" MODIFIED="1658752994934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/testing_testing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multiple_inheritance.coverage" NAME="multiple_inheritance Coverage Results" MODIFIED="1658757261661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$magic.coverage" NAME="magic Coverage Results" MODIFIED="1658761946300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_works/OOP_classes" />
+  </component>
+</project>
